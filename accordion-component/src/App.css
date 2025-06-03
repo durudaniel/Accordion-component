@@ -1,5 +1,7 @@
 .accordion {
   padding: 2rem 2rem;
+
+  cursor: pointer;
 }
 .item {
   background-color: #dfe4e8;
